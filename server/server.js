@@ -6,7 +6,7 @@ const morgan = require('morgan');
 const multer = require('multer');
 const PORT = 5000;
 
-const {} = require('./functions');
+const {} = require('./endpoints');
 
 express()
   .use((req, res, next) => {

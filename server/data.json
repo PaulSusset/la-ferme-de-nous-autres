@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Saucisse Italienne",
+    "price": 9.99,
+    "descriptionFR": "Paquet de 4",
+    "descriptionEN": "Package of 4",
+    "inventory": "unit",
+    "meat": true,
+    "type": "pork",
+    "quantity": 10
+  },
+  {
+    "name": "Boeuf haché",
+    "price": 2.99,
+    "descriptionFR": "Mi-maigre",
+    "descriptionEN": "semi-lean",
+    "inventory": "weight",
+    "portioning": 100,
+    "weight": "g",
+    "meat": true,
+    "type": "beef",
+    "quantity": 10
+  }
+]
