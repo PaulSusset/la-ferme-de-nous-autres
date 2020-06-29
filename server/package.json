@@ -1,10 +1,16 @@
 {
+  "name": "workspace-b",
+  "version": "1.0.0",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "cross-env": "5.0.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "firebase-admin": "^8.12.1",
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "workspace-a": "1.0.0"
   },
   "scripts": {
     "start": "nodemon server.js"

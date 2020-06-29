@@ -1,3 +1,4 @@
-const home = require('./homepage');
+const home = require("./homepage");
+const login = require("./login").createUser;
 
-module.exports = { home };
+module.exports = { home, login };
